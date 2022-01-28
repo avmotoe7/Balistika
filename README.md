@@ -1,2 +1,3 @@
 # Balistika
-Proracun trajektorije projektila
+Proracun trajektorije projektila streljackog naoruzanja
+ 
